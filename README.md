@@ -33,7 +33,7 @@ Os usuários devem ser capazes de:
 
 ### Links
 
-- Solução no GitHub: [Adicione a URL da solução aqui](https://github.com/frontend-mentor-projects-dhBarankievicz/Product-preview-card-component.git)
+- Solução no GitHub: [(https://github.com/frontend-mentor-projects-dhBarankievicz/Product-preview-card-component.git)]
 
 ## Meu processo
 
