@@ -33,8 +33,7 @@ Os usuários devem ser capazes de:
 
 ### Links
 
-- URL da solução: [Adicione a URL da solução aqui](https://sua-url-da-solucao.com)
-- URL do site ao vivo: [Adicione a URL do site ao vivo aqui](https://sua-url-do-site-ao-vivo.com)
+- Solução no GitHub: [Adicione a URL da solução aqui](https://github.com/frontend-mentor-projects-dhBarankievicz/Product-preview-card-component.git)
 
 ## Meu processo
 
